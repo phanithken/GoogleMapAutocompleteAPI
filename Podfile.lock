@@ -1,0 +1,51 @@
+PODS:
+  - APIKit (3.2.1):
+    - Result (~> 3.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - Himotoki (3.2.0)
+  - Result (3.2.4)
+  - RxSwift (4.1.2)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - APIKit
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - Himotoki
+  - RxSwift
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - APIKit
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - Himotoki
+    - Result
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  APIKit: a39ff72ac44efc15513fd1b98800f63c525be61b
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  Himotoki: 2618fc6b939ad6d9b71c52c90fe210f54ea28167
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 9c017236fff72613058e23f1d551e3c69104ad32
+
+COCOAPODS: 1.5.2
